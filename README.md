@@ -4,6 +4,7 @@
 ### 1. Cool examples
 
 - Rails
+  * [StringInquirer](https://github.com/rails/rails/blob/master/activesupport/lib/active_support/string_inquirer.rb)
 - RSpec
 - Capistrano
 - Guard
@@ -22,4 +23,3 @@ See [html.rb](html.rb) for details.
 ### 4. Let's build a macro
 
 See [macro.rb](macro.rb) for details.
-
